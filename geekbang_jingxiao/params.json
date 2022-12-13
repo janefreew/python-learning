@@ -1,0 +1,6 @@
+{
+    "symbol": "123456",
+    "type": "limit",
+    "price": 123.4,
+    "amount": 23
+}
