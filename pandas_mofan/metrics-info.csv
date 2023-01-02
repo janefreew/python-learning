@@ -1,0 +1,12 @@
+Platform,Status,Precision,Params,Metrics,Comparator,Throughput(Inf/Sec),Latency(us)
+plat0_onnxrt,Success,fp32,,"bbox_mAP: 0.4749999999999999 
+bbox_mAP_50: 0.6499999999999999 
+",-,-,-
+plat1_aic,Success,fp16,"aic-num-of-instances:1 
+","bbox_mAP: 0.4749999999999999 
+bbox_mAP_50: 0.6499999999999999 
+","Avg Match (all outputs): 99.969 
+(avg) feature_map_1: 99.965 
+(avg) feature_map_2: 99.969 
+(avg) feature_map_3: 99.974 
+",-,-
